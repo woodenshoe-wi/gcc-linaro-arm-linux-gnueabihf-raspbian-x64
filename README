@@ -1,0 +1,5 @@
+This is a copy of the cross compiler from  
+https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64
+
+Made into a separate repo to avoid the need to download all of  
+https://github.com/raspberrypi/tools
